@@ -1,0 +1,48 @@
+/* Universal Styles */
+@font-face {
+    font-family: 'Verdana';
+    src: url(resources/System/Library/Fonts/Supplemental/Verdana.ttf ) format('truetype');
+}
+
+html { 
+    font-size: 16px;
+    background-color: black;
+    text-align: center;
+
+}
+
+body {
+    font-family: 'Verdana', Geneva, "Tahoma", sans-serif;
+}
+
+/* Main section */
+h1 {
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    object-position: center;
+}
+
+a {
+    display: block;
+    color: aquamarine;
+    font-size: 16px;
+    position: relative;
+    text-align: center;
+
+}
+
+h2 {
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    object-position: center;
+}
+
+p {
+    font: Verdana 21px gray;
+    text-align: center;
+}
