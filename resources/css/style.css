@@ -40,10 +40,16 @@ h2 {
     font-weight: 300;
     font-size: 42px;
     object-position: center;
+    color:white;
 }
 
 p {
     font: Verdana 21px gray;
     text-align: center;
+    color: gray;
 }
 
+footer p {
+    color: gray;
+    text-align: right;
+}
